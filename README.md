@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack development and dsa<br>👯 I’m looking to collaborate on advanced projects<br>🤝 I’m looking for help with GEN AI<br>🌱 I’m currently learning DSA<br>💬 Regular DSA practitioner<br>
+Full Stack Developer | DSA Practitioner | Exploring Generative AI | Open to collaborate on advanced projects
 
 
 ## 🌐 Socials:
